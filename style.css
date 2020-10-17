@@ -42,7 +42,7 @@ h3 {
 
 
 .alien {
-    background: url('ressources/vaisseau.png');
+    background: url('ressources/ennemies.png');
     background-position: center;
     background-size: contain;
 }
@@ -54,5 +54,5 @@ h3 {
 
 
 .laser {
-    background-color: orange;
+    background-color: rgb(226, 175, 79);
 }
